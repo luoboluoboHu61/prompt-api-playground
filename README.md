@@ -4,7 +4,7 @@ This is a lightweight demo application that allows users to interact with OpenAI
 
 <br/>
 
-## 🚀 Features
+## Features
 
 - Submit any prompt and receive GPT-4 responses in real-time
 - Optional system prompt customization
@@ -13,7 +13,7 @@ This is a lightweight demo application that allows users to interact with OpenAI
 
 <br/>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **Backend**: Python, OpenAI GPT-4 API
@@ -21,7 +21,7 @@ This is a lightweight demo application that allows users to interact with OpenAI
 
 <br/>
 
-## 📸 Screenshot
+## Screenshot
 
 ![screenshot](./screenshot.png)
 
@@ -34,19 +34,23 @@ This is a lightweight demo application that allows users to interact with OpenAI
 git clone https://github.com/luoboluoboHu61/prompt-api-playground.git
 cd prompt-api-playground
 
-Install dependencies:
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
 
-Set your OpenAI API key:
+3. Set your OpenAI API key:
+```bash
 set OPENAI_API_KEY=your_api_key_here   # Windows
 # or
 export OPENAI_API_KEY=your_api_key_here  # Mac/Linux
 
-Launch the app:
+4. Launch the app:
+```bash
 streamlit run app.py
 
-🌍 Use Case
+```
+##🌍 Use Case
 This project was built as part of a remote engineering internship simulation, focusing on rapid prototyping of user-facing AI tools. It demonstrates frontend/backend integration, clean product thinking, and real-world API usage.
-
+```
 
 
