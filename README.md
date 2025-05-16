@@ -16,7 +16,6 @@ This is a lightweight demo application that allows users to interact with OpenAI
 Try it now: [Open the deployed app](https://prompt-api-playground-45ynj9zwpzjiaq94gteaou.streamlit.app/)
 
 <br/>
-
 ## Tech Stack
 
 - **Frontend**: Streamlit
