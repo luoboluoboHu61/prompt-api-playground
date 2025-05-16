@@ -27,30 +27,33 @@ This is a lightweight demo application that allows users to interact with OpenAI
 
 <br/>
 
-## 🔧 How to Run Locally
+## How to Run Locally
 
 1. Clone this repo:
-```bash
+```
 git clone https://github.com/luoboluoboHu61/prompt-api-playground.git
 cd prompt-api-playground
+```
 
 2. Install dependencies:
-```bash
+```
 pip install -r requirements.txt
+```
 
 3. Set your OpenAI API key:
-```bash
+```
 set OPENAI_API_KEY=your_api_key_here   # Windows
 # or
 export OPENAI_API_KEY=your_api_key_here  # Mac/Linux
+```
 
 4. Launch the app:
-```bash
+```
 streamlit run app.py
+```
 
-```
-##🌍 Use Case
+
+## 🌍 Use Case
 This project was built as part of a remote engineering internship simulation, focusing on rapid prototyping of user-facing AI tools. It demonstrates frontend/backend integration, clean product thinking, and real-world API usage.
-```
 
 
