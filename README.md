@@ -11,6 +11,10 @@ This is a lightweight demo application that allows users to interact with OpenAI
 - Adjustable temperature (creativity level)
 - Clean, intuitive UI with emoji-enhanced inputs
 
+## 🌐 Live Demo
+
+Try it now: [Open the deployed app](https://prompt-api-playground-45ynj9zwpzjiaq94gteaou.streamlit.app/)
+
 <br/>
 
 ## Tech Stack
